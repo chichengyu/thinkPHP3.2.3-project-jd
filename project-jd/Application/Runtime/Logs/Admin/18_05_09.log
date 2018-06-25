@@ -1,0 +1,133 @@
+[ 2018-05-09T12:24:55+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001020s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0205s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000728s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000801s ]
+
+[ 2018-05-09T12:25:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002971s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0218s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '2'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000724s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000767s ]
+
+[ 2018-05-09T12:25:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000927s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0210s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000689s ]
+
+[ 2018-05-09T12:27:34+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001077s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0208s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001096s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001140s ]
+
+[ 2018-05-09T12:44:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0407s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000674s ]
+
+[ 2018-05-09T12:45:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0216s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000660s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000700s ]
+
+[ 2018-05-09T12:45:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/12.html
+ERR: Think\Controller:getError方法不存在！
+
+[ 2018-05-09T12:45:52+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0226s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000762s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000808s ]
+
+[ 2018-05-09T12:46:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0214s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '2'  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000695s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000739s ]
+
+[ 2018-05-09T12:46:11+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0216s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000666s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000708s ]
+
+[ 2018-05-09T13:00:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0591s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000751s ]
+
+[ 2018-05-09T13:04:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxDelAttr/goods_id/26/goods_attr_id/35
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002209s ]
+SQL: SHOW COLUMNS FROM `php_goods_attr` [ RunTime:0.0374s ]
+SQL: DELETE FROM `php_goods_attr` WHERE `id` = 35 [ RunTime:0.0575s ]
+SQL: SHOW COLUMNS FROM `php_goods_number` [ RunTime:0.0209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001602s ]
+
+[ 2018-05-09T13:37:18+08:00 ] 127.0.0.1 /index.php/Admin/index/goodsTrash.html
+ERR: 非法操作:goodsTrash
+
+[ 2018-05-09T13:37:24+08:00 ] 127.0.0.1 /index.php/Admin/index/goodsTrash.html
+ERR: 非法操作:goodsTrash
+
+[ 2018-05-09T15:28:16+08:00 ] 127.0.0.1 /index.php/Admin/privilega/lst.html
+ERR: 无法加载控制器:Privilega
+
+[ 2018-05-09T18:16:18+08:00 ] 127.0.0.1 /index.php/Admin/Role/lst.html
+ERR: 1146:Table 'php.php_fole_pri' doesn't exist
+ [ SQL语句 ] : SELECT a.*,b.pri_name FROM php_role a LEFT JOIN php_fole_pri b ON a.id=b.role_id
+                    LEFT JOIN php_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20  
+
+[ 2018-05-09T18:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Role/lst.html
+ERR: 1054:Unknown column 'b.pri_name' in 'field list'
+ [ SQL语句 ] : SELECT a.*,b.pri_name FROM php_role a LEFT JOIN php_role_pri b ON a.id=b.role_id
+                    LEFT JOIN php_privilege c ON b.pri_id=c.id  GROUP BY a.id LIMIT 0,20  
+

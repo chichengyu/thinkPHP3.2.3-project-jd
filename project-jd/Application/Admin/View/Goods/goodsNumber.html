@@ -1,0 +1,89 @@
+<layout name="layout" />
+
+<form method="post" action="__SELF__" name="listForm" onsubmit="">
+    <div class="list-div" id="listDiv">
+        <table cellpadding="3" cellspacing="1">
+            <tr>
+                <?php foreach($NewGoodsAttrDate as $k=>$v):?>
+                    <th><{$k}></th>
+                <?php endforeach;?>
+                <th width="150">库存量</th>
+                <th width="150">操作</th>
+            </tr>
+            <?php if($goodsNumberDate):?>
+                <?php foreach($goodsNumberDate as $key=>$val):
+                    $attr_id_list = explode(',',$val['goods_attr_id_list']);
+                ?>
+                    <tr class="tron">
+                        <?php
+                            $gaCount = count($NewGoodsAttrDate);
+                         foreach($NewGoodsAttrDate as $k=>$v):?>
+                            <td align="center">
+                                <select name="goods_attr_id_list[]" id="">
+                                    <option value="">请选择</option>
+                                    <?php foreach($v as $v1):
+                                        if(in_array($v1['id'],$attr_id_list)){
+                                            $select = 'selected';
+                                        }else{
+                                            $select = '';
+                                        }
+                                    ?>
+                                        <option <?php echo $select;?> value="<{$v1['id']}>"><{$v1['attr_values']}></option>
+                                    <?php endforeach;?>
+                                </select>
+                            </td>
+                        <?php endforeach;?>
+                        <td align="center">
+                            <input type="text" name="goods_number[]" value="<{$val['goods_number']}>">
+                        </td>
+                        <td align="center">
+                            <input onclick="addNewTr(this)" type="button" value="<?php echo $key==0?'+':'-' ;?>">
+                        </td>
+                    </tr>
+                <?php endforeach;?>
+            <?php else:?>
+                <tr>
+                    <?php
+                            $gaCount = count($NewGoodsAttrDate);
+                         foreach($NewGoodsAttrDate as $k=>$v):?>
+                    <td align="center">
+                        <select name="goods_attr_id_list[]" id="">
+                            <option value="">请选择</option>
+                            <?php foreach($v as $v1):?>
+                            <option value="<{$v1['id']}>"><{$v1['attr_values']}></option>
+                            <?php endforeach;?>
+                        </select>
+                    </td>
+                    <?php endforeach;?>
+                    <td align="center">
+                        <input type="text" name="goods_number[]" value="">
+                    </td>
+                    <td align="center">
+                        <input onclick="addNewTr(this)" type="button" value="+">
+                    </td>
+                </tr>
+            <?php endif;?>
+            <tr id="btn">
+                <td align="center" colspan="<?php echo $gaCount+2;?>">
+                    <input type="submit" value="提交" >
+                </td>
+            </tr>
+        </table>
+    </div>
+</form>
+
+
+<!-- 引入自定义代码高亮tron.js -->
+<script type="text/javascript" src="__PUBLIC__/Admin/Js/tron.js"></script>
+<script>
+    function addNewTr(Dom){
+        var tr = $(Dom).parent().parent();
+        if ($(Dom).val() == '+'){
+            var newTr = tr.clone();
+            newTr.find('input[type="button"]').val('-');
+            $('#btn').before(newTr);
+        }else{
+            tr.remove();
+        }
+    }
+</script>

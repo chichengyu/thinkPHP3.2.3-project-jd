@@ -1,0 +1,6 @@
+[ 2018-05-13T12:04:11+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/15.html
+ERR: Think\Controller:getError方法不存在！
+
+[ 2018-05-13T12:04:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/15.html
+ERR: Think\Controller:getError方法不存在！
+

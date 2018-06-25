@@ -1,0 +1,337 @@
+[ 2018-05-13T14:57:35+08:00 ] 127.0.0.1 /home/index/index.html
+NOTIC: D方法实例化没找到模型类admin\Model\GoodsModel
+ERR: Think\Model:getGoodsIdByCateId方法不存在！
+
+[ 2018-05-13T14:58:28+08:00 ] 127.0.0.1 /home/index/index.html
+NOTIC: D方法实例化没找到模型类admin\Model\GoodsModel
+ERR: Think\Model:getGoodsIdByCateId方法不存在！
+
+[ 2018-05-13T14:58:29+08:00 ] 127.0.0.1 /home/index/index.html
+NOTIC: D方法实例化没找到模型类admin\Model\GoodsModel
+ERR: Think\Model:getGoodsIdByCateId方法不存在！
+
+[ 2018-05-13T14:59:26+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T14:59:27+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T14:59:28+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T14:59:28+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T14:59:28+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T14:59:28+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T14:59:29+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T15:00:28+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T15:00:28+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T15:00:29+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T15:00:29+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T15:00:29+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T15:00:29+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T15:00:42+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') ORDER BY sort_number ASC LIMIT 8' at line 1
+ [ SQL语句 ] : SELECT * FROM `php_goods` WHERE `is_floor` = '是' AND `is_on_sale` = '是' AND `id` IN () ORDER BY sort_number ASC LIMIT 8  
+
+[ 2018-05-13T15:07:07+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T15:07:12+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T15:08:59+08:00 ] 127.0.0.1 /home/index/index.html
+NOTIC: D方法实例化没找到模型类admin\Model\CategoryModel
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T15:10:04+08:00 ] 127.0.0.1 /home/index/index.html
+NOTIC: D方法实例化没找到模型类admin\Model\CategoryModel
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T15:11:24+08:00 ] 127.0.0.1 /home/index/index.html
+NOTIC: D方法实例化没找到模型类admin\Model\CategoryModel
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T15:11:25+08:00 ] 127.0.0.1 /home/index/index.html
+NOTIC: D方法实例化没找到模型类admin\Model\CategoryModel
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T15:11:25+08:00 ] 127.0.0.1 /home/index/index.html
+NOTIC: D方法实例化没找到模型类admin\Model\CategoryModel
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T15:15:35+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: Think\Model:getChild方法不存在！
+
+[ 2018-05-13T16:07:26+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') ORDER BY sort_number ASC LIMIT 8' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM `php_goods` WHERE `is_floor` = '是' AND `is_on_sale` = '是' AND `id` IN () ORDER BY sort_number ASC LIMIT 8  
+
+[ 2018-05-13T16:08:55+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') ORDER BY sort_number ASC LIMIT 8' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM `php_goods` WHERE `is_floor` = '是' AND `is_on_sale` = '是' AND `id` IN () ORDER BY sort_number ASC LIMIT 8  
+
+[ 2018-05-13T16:10:42+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') ORDER BY sort_number ASC' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM `php_goods` WHERE `is_floor` = '是' AND `is_on_sale` = '是' AND `id` IN () ORDER BY sort_number ASC 
+
+[ 2018-05-13T16:14:14+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') ORDER BY sort_number ASC' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_floor = '是' AND a.is_on_sale = '是' AND a.id IN () ORDER BY sort_number ASC 
+
+[ 2018-05-13T16:15:38+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') ORDER BY sort_number ASC' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () ORDER BY sort_number ASC 
+
+[ 2018-05-13T16:15:38+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') ORDER BY sort_number ASC' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () ORDER BY sort_number ASC 
+
+[ 2018-05-13T16:15:39+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') ORDER BY sort_number ASC' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () ORDER BY sort_number ASC 
+
+[ 2018-05-13T16:17:01+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:17:55+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:17:56+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:17:58+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:17:59+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:17:59+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:17:59+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:18:01+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:18:01+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:18:17+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:18:17+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:18:17+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:18:18+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:18:18+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:19:09+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:19:24+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:19:24+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:19:25+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:20:33+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:20:34+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:20:34+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:20:35+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:20:35+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:20:35+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.is_on_sale = '是' AND a.is_floor = '是' AND a.id IN () 
+
+[ 2018-05-13T16:21:09+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.id IN () 
+
+[ 2018-05-13T16:21:10+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.id IN () 
+
+[ 2018-05-13T16:21:10+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.id IN () 
+
+[ 2018-05-13T16:21:10+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.id IN () 
+
+[ 2018-05-13T16:21:25+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.id IN () 
+
+[ 2018-05-13T16:22:06+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.id IN () 
+
+[ 2018-05-13T16:22:07+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.id IN () 
+
+[ 2018-05-13T16:22:07+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.id IN () 
+
+[ 2018-05-13T16:22:07+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.id IN () 
+
+[ 2018-05-13T16:22:08+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.id IN () 
+
+[ 2018-05-13T16:22:08+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM php_goods a WHERE a.id IN () 
+
+[ 2018-05-13T16:28:30+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM `php_goods` WHERE `is_on_sale` = '是' AND `is_floor` = '是' AND `id` IN () 
+
+[ 2018-05-13T16:29:24+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM `php_goods` WHERE `is_on_sale` = '是' AND `is_floor` = '是' AND `id` IN () 
+
+[ 2018-05-13T16:29:25+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM `php_goods` WHERE `is_on_sale` = '是' AND `is_floor` = '是' AND `id` IN () 
+
+[ 2018-05-13T16:36:02+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM `php_goods` WHERE `is_on_sale` = '是' AND `is_floor` = '是' AND `id` IN () 
+
+[ 2018-05-13T16:43:02+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM `php_goods` WHERE `is_on_sale` = '是' AND `is_floor` = '是' AND `id` IN () 
+
+[ 2018-05-13T16:43:06+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM `php_goods` WHERE `is_on_sale` = '是' AND `is_floor` = '是' AND `id` IN () 
+
+[ 2018-05-13T16:43:07+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM `php_goods` WHERE `is_on_sale` = '是' AND `is_floor` = '是' AND `id` IN () 
+
+[ 2018-05-13T16:43:08+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM `php_goods` WHERE `is_on_sale` = '是' AND `is_floor` = '是' AND `id` IN () 
+
+[ 2018-05-13T16:43:09+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM `php_goods` WHERE `is_on_sale` = '是' AND `is_floor` = '是' AND `id` IN () 
+
+[ 2018-05-13T16:43:09+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM `php_goods` WHERE `is_on_sale` = '是' AND `is_floor` = '是' AND `id` IN () 
+
+[ 2018-05-13T16:46:04+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM `php_goods` WHERE `is_on_sale` = '是' AND `is_floor` = '是' AND `id` IN () 
+
+[ 2018-05-13T16:46:35+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`goods_name`,`mid_logo`,`shop_price` FROM `php_goods` WHERE `is_on_sale` = '是' AND `is_floor` = '是' AND `id` IN () 
+
+[ 2018-05-13T17:22:46+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1052:Column 'id' in where clause is ambiguous
+ [ SQL语句 ] : SELECT distinct a.brand_id,b.brand_name,b.logo FROM php_goods a LEFT JOIN php_brand b ON a.brand_id=b.id  WHERE `id` = Array AND `brand_id` <> 0 
+
+[ 2018-05-13T17:23:13+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1054:Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : SELECT distinct a.brand_id,b.brand_name,b.logo FROM php_goods a LEFT JOIN php_brand b ON a.brand_id=b.id  WHERE a.id = Array AND a.brand_id <> 0 
+
+[ 2018-05-13T17:23:16+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1054:Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : SELECT distinct a.brand_id,b.brand_name,b.logo FROM php_goods a LEFT JOIN php_brand b ON a.brand_id=b.id  WHERE a.id = Array AND a.brand_id <> 0 
+
+[ 2018-05-13T17:24:12+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1054:Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : SELECT distinct a.brand_id,b.brand_name,b.logo FROM php_goods a LEFT JOIN php_brand b ON a.brand_id=b.id  WHERE a.id = Array AND a.brand_id <> 0 
+
+[ 2018-05-13T17:24:13+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1054:Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : SELECT distinct a.brand_id,b.brand_name,b.logo FROM php_goods a LEFT JOIN php_brand b ON a.brand_id=b.id  WHERE a.id = Array AND a.brand_id <> 0 
+
+[ 2018-05-13T17:24:13+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1054:Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : SELECT distinct a.brand_id,b.brand_name,b.logo FROM php_goods a LEFT JOIN php_brand b ON a.brand_id=b.id  WHERE a.id = Array AND a.brand_id <> 0 
+
+[ 2018-05-13T17:24:14+08:00 ] 127.0.0.1 /home/index/index.html
+ERR: 1054:Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : SELECT distinct a.brand_id,b.brand_name,b.logo FROM php_goods a LEFT JOIN php_brand b ON a.brand_id=b.id  WHERE a.id = Array AND a.brand_id <> 0 
+
+[ 2018-05-13T19:55:45+08:00 ] 127.0.0.1 /index.php/home/index/index
+ERR: _STORAGE_WRITE_ERROR_:./Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php
+
+[ 2018-05-13T20:13:03+08:00 ] 127.0.0.1 /index.php/home/index/index
+ERR: _STORAGE_WRITE_ERROR_:./Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php
+
+[ 2018-05-13T20:13:03+08:00 ] 127.0.0.1 /index.php/home/index/index
+ERR: _STORAGE_WRITE_ERROR_:./Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php
+
