@@ -1,0 +1,248 @@
+[ 2018-05-08T09:14:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001209s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0617s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001089s ]
+
+[ 2018-05-08T09:21:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001534s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0220s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000850s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000894s ]
+
+[ 2018-05-08T09:44:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000934s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0201s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000729s ]
+
+[ 2018-05-08T09:46:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0213s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000749s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000789s ]
+
+[ 2018-05-08T09:47:11+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001085s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0216s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000723s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000763s ]
+
+[ 2018-05-08T09:58:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0214s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000803s ]
+
+[ 2018-05-08T10:01:38+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000978s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0223s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000767s ]
+
+[ 2018-05-08T10:01:56+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001272s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0248s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000809s ]
+
+[ 2018-05-08T10:11:23+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001242s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0202s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000927s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000971s ]
+
+[ 2018-05-08T10:12:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+ERR: 1048:Column 'goods_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `php_goods_attr` (`attr_id`,`goods_id`) VALUES ('1',NULL)
+
+[ 2018-05-08T10:13:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+ERR: 1048:Column 'goods_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `php_goods_attr` (`attr_values`,`attr_id`,`goods_id`) VALUES ('白色','1',NULL)
+
+[ 2018-05-08T10:16:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+ERR: 1048:Column 'goods_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `php_goods_attr` (`attr_values`,`attr_id`,`goods_id`) VALUES ('白色','1',NULL)
+
+[ 2018-05-08T10:27:45+08:00 ] 127.0.0.1 /index.php/Admin/attributr/lst.html
+ERR: 无法加载控制器:Attributr
+
+[ 2018-05-08T10:28:18+08:00 ] 127.0.0.1 /index.php/Admin/type/
+ERR: 非法操作:index
+
+[ 2018-05-08T11:06:16+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0218s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000816s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000864s ]
+
+[ 2018-05-08T11:09:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0209s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000729s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000768s ]
+
+[ 2018-05-08T11:11:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001449s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0215s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001100s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001143s ]
+
+[ 2018-05-08T11:24:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0221s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000789s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000834s ]
+
+[ 2018-05-08T11:44:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/25.html
+ERR: 1054:Unknown column 'b.type' in 'field list'
+ [ SQL语句 ] : SELECT a.*,b.attr_name,b.type,b.attr_option_values FROM php_goods_attr a INNER JOIN php_attribute b ON a.attr_id=b.id  WHERE `goods_id` = '25' 
+
+[ 2018-05-08T11:55:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/25.html
+ERR: 1054:Unknown column 'a.goods_id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `php_goods_cate` WHERE a.goods_id = '25' 
+
+[ 2018-05-08T12:50:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/attribute/add
+ERR: 非法操作:attribute
+
+[ 2018-05-08T12:52:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/25.html
+ERR: 1054:Unknown column 'b.attr_name' in 'field list'
+ [ SQL语句 ] : SELECT a.*,b.attr_name,b.attr_type,b.attr_option_values FROM php_attribute a INNER JOIN php_goods_attr b ON a.attr_id=b.id  WHERE a.type_id = '1' 
+
+[ 2018-05-08T12:57:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/25.html
+ERR: 1054:Unknown column 'a.attr_id' in 'on clause'
+ [ SQL语句 ] : SELECT a.*,b.attr_values FROM php_attribute a INNER JOIN php_goods_attr b ON a.attr_id=b.id  WHERE a.type_id = '1' 
+
+[ 2018-05-08T16:07:36+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxDelAttr/goods_attr_id/14
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001432s ]
+SQL: SHOW COLUMNS FROM `php_goods_attr` [ RunTime:0.0235s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000660s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000702s ]
+
+[ 2018-05-08T16:07:48+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxDelAttr/goods_attr_id/14
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+SQL: SHOW COLUMNS FROM `php_goods_attr` [ RunTime:0.0215s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000704s ]
+
+[ 2018-05-08T16:08:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxDelAttr/goods_attr_id/14
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+SQL: SHOW COLUMNS FROM `php_goods_attr` [ RunTime:0.0228s ]
+
+[ 2018-05-08T16:09:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001482s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0207s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001197s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001236s ]
+
+[ 2018-05-08T16:09:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001400s ]
+SQL: SHOW COLUMNS FROM `php_attribute` [ RunTime:0.0205s ]
+SQL: SELECT * FROM `php_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001145s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001184s ]
+
+[ 2018-05-08T16:13:20+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxDelAttr/goods_attr_id/14
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001398s ]
+SQL: SHOW COLUMNS FROM `php_goods_attr` [ RunTime:0.0252s ]
+SQL: DELETE FROM `php_goods_attr` WHERE `id` = 14 [ RunTime:0.0293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001190s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001231s ]
+
+[ 2018-05-08T16:50:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxDelAttr/goods_id/25/goods_attr_id/15
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001607s ]
+SQL: SHOW COLUMNS FROM `php_goods_attr` [ RunTime:0.0272s ]
+SQL: DELETE FROM `php_goods_attr` WHERE `id` = 15 [ RunTime:0.0611s ]
+SQL: SHOW COLUMNS FROM `php_goods_number` [ RunTime:0.0428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001129s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001184s ]
+
+[ 2018-05-08T17:07:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/16.html
+ERR: Think\Controller:getError方法不存在！
+
+[ 2018-05-08T17:09:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/13.html
+ERR: Think\Controller:getError方法不存在！
+
+[ 2018-05-08T17:35:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goodsNumber/id/25.html
+ERR: 非法操作:goodsNumber
+
+[ 2018-05-08T17:36:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goodsNumber/id/25.html
+ERR: 非法操作:goodsNumber
+
+[ 2018-05-08T17:46:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goodsNumber/id/25.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'a.attr_id=b.id  WHERE a.goods_id = '25'' at line 1
+ [ SQL语句 ] : SELECT * FROM php_goods_attr a LEFT JOIN php_attribute b a.attr_id=b.id  WHERE a.goods_id = '25' 
+

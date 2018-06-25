@@ -1,0 +1,60 @@
+<layout name="layout" />
+
+<div class="main-div">
+    <form name="main_form" method="POST" action="__SELF__" enctype="multipart/form-data" >
+    	<input type="hidden" name="id" value="<?php echo $data['id']; ?>" />
+        <table cellspacing="1" cellpadding="3" width="100%">
+            <tr>
+                <td class="label">角色名称：</td>
+                <td>
+                    <input  type="text" name="role_name" value="<?php echo $data['role_name']; ?>" />
+                </td>
+            </tr>
+            <tr>
+                <td class="label">权限列表：</td>
+                <td>
+                    <?php foreach($privilegeDate as $v):?>
+                        <?php echo str_repeat('-',8*$v['level']);?>
+                        <input <?php if(strpos($rolePriDate,$v['id']) !== false) echo 'checked';?> level_num="<{$v['level']}>" type="checkbox" name="pri_id[]" value="<{$v['id']}>"/>
+                        <{$v['pri_name']}><br/>
+                    <?php endforeach;?>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="99" align="center">
+                    <input type="submit" class="button" value=" 确定 " />
+                    <input type="reset" class="button" value=" 重置 " />
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
+
+
+<script>
+    //复选框的选中与取消
+    $(':checkbox').click(function () {
+        var level_num = $(this).attr('level_num');
+        //判断选中还是取消
+        if ($(this).prop('checked')){
+            //所有子权限也选中
+            $(this).nextAll(':checkbox').each(function (k,v) {
+                if( $(v).attr('level_num') > level_num){
+                    $(v).prop('checked',true);
+                }else{
+                    return false;
+                }
+            });
+        }else{
+            //$(this).prop('checked',false);
+            //所有子权限也取消
+            $(this).nextAll(':checkbox').each(function (k,v) {
+                if( $(v).attr('level_num') > level_num){
+                    $(v).prop('checked',false);
+                }else{
+                    return false;
+                }
+            });
+        }
+    });
+</script>

@@ -1,0 +1,28 @@
+<layout name="layout" />
+
+<!-- 分类列表 -->
+<form method="post" action="" name="listForm" onsubmit="">
+    <div class="list-div" id="listDiv">
+        <table cellpadding="3" cellspacing="1">
+            <tr>
+               <th>分类名称</th>
+                <th>操作</th>
+            </tr>
+            <foreach name="data" item="val">
+            <tr class="tron">
+                <td><?php echo str_repeat('-',8*$val['level']);?><{$val.cate_name}></td>
+                <td align="center">
+                    <a href="<?php echo U('edit?id='.$val['id'])?>">修改</a>
+                    <a onclick="return confirm('你确定要删除吗？')" href="<?php echo U('delete?id='.$val['id']);?>">删除</a>
+                </td>
+            </tr>
+            </foreach>
+        </table>
+    </div>
+</form>
+
+
+
+<script type="text/javascript" src="__PUBLIC__/datetimepicker/jquery-1.7.2.min.js"></script>
+<!-- 引入自定义代码高亮tron.js -->
+<script type="text/javascript" src="__PUBLIC__/Admin/Js/tron.js"></script>

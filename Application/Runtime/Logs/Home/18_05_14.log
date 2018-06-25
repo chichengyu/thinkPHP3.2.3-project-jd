@@ -1,0 +1,1170 @@
+[ 2018-05-14T10:08:01+08:00 ] 127.0.0.1 /index.php/Home/Index/goods/id/27.html
+ERR: Think\Model:parentCate方法不存在！
+
+[ 2018-05-14T10:11:28+08:00 ] 127.0.0.1 /index.php/Home/Index/goods/id/27.html
+ERR: 1054:Unknown column 'goods_namae' in 'field list'
+ [ SQL语句 ] : SELECT `goods_namae`,`parent_id` FROM `php_goods` WHERE `id` = 27 LIMIT 1  
+
+[ 2018-05-14T10:11:35+08:00 ] 127.0.0.1 /index.php/Home/Index/goods/id/27.html
+ERR: 1054:Unknown column 'parent_id' in 'field list'
+ [ SQL语句 ] : SELECT `goods_name`,`parent_id` FROM `php_goods` WHERE `id` = 27 LIMIT 1  
+
+[ 2018-05-14T12:17:20+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001490s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0174s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:17:32+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001836s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0309s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:18:30+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:19:02+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:19:03+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:19:03+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:19:05+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001397s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0170s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:19:06+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001088s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0307s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:19:07+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001790s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0355s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:20:01+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001727s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0443s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:20:02+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001197s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0292s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:20:05+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001252s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0316s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:20:06+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001792s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0335s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:20:06+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002183s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0252s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:20:07+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002098s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0298s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:20:23+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002230s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0177s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:20:46+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002916s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0212s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:23:31+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001949s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0375s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:23:32+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002275s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0359s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:23:33+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002191s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0360s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:23:33+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002716s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0229s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:23:34+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002118s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0362s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:23:35+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002421s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0325s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:23:36+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002973s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0490s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:27:32+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002116s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0261s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:28:05+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001913s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0309s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:29:12+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001954s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0233s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:29:54+08:00 ] 127.0.0.1 /index.php/Home/index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002326s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0367s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:30:36+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001984s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0317s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:32:37+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001229s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0208s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:33:16+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001822s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0245s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:33:46+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001687s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0333s ]
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:34:14+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:35:10+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+ERR: 1146:Table 'get.php_id' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `get`.`php_id`
+
+[ 2018-05-14T12:35:49+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001889s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0383s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000733s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000793s ]
+
+[ 2018-05-14T12:36:24+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002267s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0387s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001147s ]
+
+[ 2018-05-14T12:36:38+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002242s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0348s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000681s ]
+
+[ 2018-05-14T12:36:56+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001656s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0349s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000728s ]
+
+[ 2018-05-14T12:36:57+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001931s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001237s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001425s ]
+
+[ 2018-05-14T12:36:57+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001847s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0257s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000901s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001013s ]
+
+[ 2018-05-14T12:36:58+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001916s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0545s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000535s ]
+
+[ 2018-05-14T12:37:07+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001754s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0237s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000657s ]
+
+[ 2018-05-14T12:37:49+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001717s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0226s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2018-05-14T12:38:02+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001716s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0328s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000525s ]
+
+[ 2018-05-14T12:38:21+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001549s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0288s ]
+
+[ 2018-05-14T12:38:22+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001631s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0391s ]
+
+[ 2018-05-14T12:38:23+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001132s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0194s ]
+
+[ 2018-05-14T12:38:41+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001888s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0360s ]
+
+[ 2018-05-14T12:38:55+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001673s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0317s ]
+
+[ 2018-05-14T12:39:04+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001690s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0480s ]
+
+[ 2018-05-14T12:41:08+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001856s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000798s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000893s ]
+
+[ 2018-05-14T12:41:11+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/27.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001787s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0336s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000644s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000717s ]
+
+[ 2018-05-14T12:41:16+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/28.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001875s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0247s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000793s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000884s ]
+
+[ 2018-05-14T12:41:22+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001453s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0656s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000981s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001112s ]
+
+[ 2018-05-14T12:41:25+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/27.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001431s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0279s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000758s ]
+
+[ 2018-05-14T12:41:31+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/26.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001841s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0346s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000752s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+
+[ 2018-05-14T12:42:01+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002182s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0311s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000742s ]
+
+[ 2018-05-14T12:42:04+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/25.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001734s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000720s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000814s ]
+
+[ 2018-05-14T12:42:06+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001732s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0214s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000881s ]
+
+[ 2018-05-14T12:42:09+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001224s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0324s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000685s ]
+
+[ 2018-05-14T12:42:12+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0388s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000838s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000933s ]
+
+[ 2018-05-14T12:42:24+08:00 ] 127.0.0.1 /index.php/Home/Index/19.html
+ERR: 非法操作:19
+
+[ 2018-05-14T12:42:28+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001570s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0365s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000991s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001084s ]
+
+[ 2018-05-14T12:42:30+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/27.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001987s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0698s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000562s ]
+
+[ 2018-05-14T12:42:33+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000970s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0335s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000863s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000981s ]
+
+[ 2018-05-14T12:42:37+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001527s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000699s ]
+
+[ 2018-05-14T12:42:41+08:00 ] 127.0.0.1 /index.php/Home/Index/30.html
+ERR: 非法操作:30
+
+[ 2018-05-14T12:42:44+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001630s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0331s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000519s ]
+
+[ 2018-05-14T12:44:15+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/25.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001288s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0327s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001189s ]
+
+[ 2018-05-14T12:47:39+08:00 ] 127.0.0.1 /index.php/Home/Index/30.html
+ERR: 非法操作:30
+
+[ 2018-05-14T12:48:00+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/25.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001542s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0281s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000898s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000980s ]
+
+[ 2018-05-14T12:48:05+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/28.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001155s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000853s ]
+
+[ 2018-05-14T12:48:16+08:00 ] 127.0.0.1 /index.php/Home/Index/30.html
+ERR: 非法操作:30
+
+[ 2018-05-14T12:53:02+08:00 ] 127.0.0.1 /index.php/Home/Index/30.html
+ERR: 非法操作:30
+
+[ 2018-05-14T13:05:11+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/30.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001887s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001791s ]
+
+[ 2018-05-14T13:05:13+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/25.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002360s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0285s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000757s ]
+
+[ 2018-05-14T13:05:17+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/30.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001736s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0463s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001504s ]
+
+[ 2018-05-14T13:05:20+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/27.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001336s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0219s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000774s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000855s ]
+
+[ 2018-05-14T13:06:11+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/30.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001393s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0462s ]
+NOTIC: [8] Array to string conversion D:\xampp\htdocs\svnphp\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2018-05-14T13:06:34+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/28.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001543s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0234s ]
+
+[ 2018-05-14T13:06:43+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002414s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0216s ]
+
+[ 2018-05-14T13:07:40+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/27.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001276s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0462s ]
+
+[ 2018-05-14T13:08:10+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/27.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001967s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0443s ]
+
+[ 2018-05-14T13:09:28+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/27.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001948s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0258s ]
+
+[ 2018-05-14T13:11:31+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/30.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0253s ]
+
+[ 2018-05-14T13:12:08+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/27.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001699s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0341s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0339s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('27','29') AND `is_on_sale` = '是' ORDER BY field(id,27,29)  [ RunTime:0.0078s ]
+
+[ 2018-05-14T13:12:15+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/28.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001534s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0197s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0283s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('28','29','27') AND `is_on_sale` = '是' ORDER BY field(id,28,29,27)  [ RunTime:0.0010s ]
+
+[ 2018-05-14T13:12:32+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002247s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0322s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0252s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0008s ]
+
+[ 2018-05-14T13:26:38+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0187s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0240s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000845s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000925s ]
+
+[ 2018-05-14T13:27:11+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0281s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0250s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000731s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000775s ]
+
+[ 2018-05-14T13:28:14+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001773s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0777s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0355s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000792s ]
+
+[ 2018-05-14T13:28:51+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002276s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0356s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0444s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001006s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001054s ]
+
+[ 2018-05-14T13:29:17+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001400s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0200s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0192s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000882s ]
+
+[ 2018-05-14T13:30:34+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001404s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0317s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0268s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0017s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001113s ]
+
+[ 2018-05-14T13:30:52+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001616s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0229s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0439s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001227s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001299s ]
+
+[ 2018-05-14T13:31:15+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001229s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0195s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0285s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000755s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000827s ]
+
+[ 2018-05-14T13:31:33+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002421s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0326s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0543s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0046s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001091s ]
+
+[ 2018-05-14T13:31:48+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001418s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0192s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0345s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001389s ]
+
+[ 2018-05-14T13:32:00+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002350s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0459s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0437s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000896s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000953s ]
+
+[ 2018-05-14T13:32:10+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001433s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0233s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0293s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0037s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001599s ]
+
+[ 2018-05-14T13:32:46+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002128s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0287s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0375s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000890s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000947s ]
+
+[ 2018-05-14T13:33:19+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001673s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0216s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0362s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000917s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000979s ]
+
+[ 2018-05-14T13:34:01+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002241s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0180s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0414s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001742s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002463s ]
+
+[ 2018-05-14T13:34:15+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001782s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0455s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0398s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000959s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001039s ]
+
+[ 2018-05-14T13:38:55+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002619s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0250s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0423s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0017s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000711s ]
+
+[ 2018-05-14T13:39:16+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002031s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0441s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0365s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000989s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001060s ]
+
+[ 2018-05-14T13:39:23+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001353s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0353s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0410s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001167s ]
+
+[ 2018-05-14T13:43:22+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002274s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0247s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0187s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000891s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000934s ]
+
+[ 2018-05-14T13:43:59+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001139s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001676s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0343s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0216s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('19','29','28','27') AND `is_on_sale` = '是' ORDER BY field(id,19,29,28,27)  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000895s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000939s ]
+
+[ 2018-05-14T13:44:44+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001504s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0363s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0357s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('29','19','28','27') AND `is_on_sale` = '是' ORDER BY field(id,29,19,28,27)  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001231s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001301s ]
+
+[ 2018-05-14T13:44:48+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/28.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001473s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0365s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0211s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('28','29','19','27') AND `is_on_sale` = '是' ORDER BY field(id,28,29,19,27)  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000674s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000715s ]
+
+[ 2018-05-14T13:46:02+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/28.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002295s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0505s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0259s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('28','29','19','27') AND `is_on_sale` = '是' ORDER BY field(id,28,29,19,27)  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001121s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001186s ]
+
+[ 2018-05-14T13:46:07+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/30.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002785s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0350s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0229s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('30','28','29','19','27') AND `is_on_sale` = '是' ORDER BY field(id,30,28,29,19,27)  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000980s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001027s ]
+
+[ 2018-05-14T13:47:01+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/27.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001553s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0234s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0259s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('27','30','28','29','19') AND `is_on_sale` = '是' ORDER BY field(id,27,30,28,29,19)  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001482s ]
+
+[ 2018-05-14T13:47:46+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/28.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002173s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0307s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0279s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('28','27','30','29','19') AND `is_on_sale` = '是' ORDER BY field(id,28,27,30,29,19)  [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001153s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001254s ]
+
+[ 2018-05-14T13:50:27+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/30.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001338s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0215s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0296s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('30','28','27','29','19') AND `is_on_sale` = '是' ORDER BY field(id,30,28,27,29,19)  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000897s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000970s ]
+
+[ 2018-05-14T13:57:13+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/25.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002161s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0311s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0341s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('25','30','28','27','29','19') AND `is_on_sale` = '是' ORDER BY field(id,25,30,28,27,29,19)  [ RunTime:0.0022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001205s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001276s ]
+
+[ 2018-05-14T14:13:05+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/27.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002150s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0437s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0172s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('27','25','30','28','29','19') AND `is_on_sale` = '是' ORDER BY field(id,27,25,30,28,29,19)  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000734s ]
+
+[ 2018-05-14T15:00:16+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/28.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001280s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0236s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0258s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('28','27','25','30','29','19') AND `is_on_sale` = '是' ORDER BY field(id,28,27,25,30,29,19)  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000752s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000794s ]
+
+[ 2018-05-14T15:00:20+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/28.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001935s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0276s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0187s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('28','27','25','30','29','19') AND `is_on_sale` = '是' ORDER BY field(id,28,27,25,30,29,19)  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000769s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000831s ]
+
+[ 2018-05-14T15:00:24+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/29.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000864s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0347s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0267s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('29','28','27','25','30','19') AND `is_on_sale` = '是' ORDER BY field(id,29,28,27,25,30,19)  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000774s ]
+
+[ 2018-05-14T15:00:27+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/28.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001329s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0387s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0273s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('28','29','27','25','30','19') AND `is_on_sale` = '是' ORDER BY field(id,28,29,27,25,30,19)  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000752s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2018-05-14T15:00:28+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/28.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0331s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0244s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('28','29','27','25','30','19') AND `is_on_sale` = '是' ORDER BY field(id,28,29,27,25,30,19)  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000729s ]
+
+[ 2018-05-14T15:02:05+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/27.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001147s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0239s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0232s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('27','28','29','25','30','19') AND `is_on_sale` = '是' ORDER BY field(id,27,28,29,25,30,19)  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001117s ]
+
+[ 2018-05-14T15:02:10+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/30.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001156s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001987s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0189s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0179s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('30','27','28','29','25','19') AND `is_on_sale` = '是' ORDER BY field(id,30,27,28,29,25,19)  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000740s ]
+
+[ 2018-05-14T15:02:15+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/27.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003634s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0358s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0169s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('27','30','28','29','25','19') AND `is_on_sale` = '是' ORDER BY field(id,27,30,28,29,25,19)  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2018-05-14T15:40:54+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/25.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001704s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0214s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0239s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('25','27','30','28','29','19') AND `is_on_sale` = '是' ORDER BY field(id,25,27,30,28,29,19)  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000922s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000962s ]
+
+[ 2018-05-14T18:38:18+08:00 ] 127.0.0.1 /index.php/Home/Index/displayHistory/id/25.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002029s ]
+SQL: SHOW COLUMNS FROM `php_category` [ RunTime:0.0426s ]
+SQL: SHOW COLUMNS FROM `php_goods` [ RunTime:0.0272s ]
+SQL: SELECT `id`,`goods_name`,`mid_logo` FROM `php_goods` WHERE `id` IN ('25','29','27','30','28','19') AND `is_on_sale` = '是' ORDER BY field(id,25,29,27,30,28,19)  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001570s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001651s ]
+
